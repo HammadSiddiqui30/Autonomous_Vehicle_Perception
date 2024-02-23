@@ -1,0 +1,3 @@
+[console_scripts]
+image_preprocessor = test_pkg.image_preprocessor:main
+

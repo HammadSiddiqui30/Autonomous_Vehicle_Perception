@@ -1,0 +1,6 @@
+{
+  "package_name": "theora_image_transport",
+  "non_idl_tuples": [
+    "/home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/image_transport_plugins/theora_image_transport:msg/Packet.msg"
+  ]
+}

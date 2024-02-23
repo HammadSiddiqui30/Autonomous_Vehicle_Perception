@@ -1,0 +1,37 @@
+running egg_info
+creating build/depth_viewer/depth_viewer.egg-info
+writing build/depth_viewer/depth_viewer.egg-info/PKG-INFO
+writing dependency_links to build/depth_viewer/depth_viewer.egg-info/dependency_links.txt
+writing entry points to build/depth_viewer/depth_viewer.egg-info/entry_points.txt
+writing requirements to build/depth_viewer/depth_viewer.egg-info/requires.txt
+writing top-level names to build/depth_viewer/depth_viewer.egg-info/top_level.txt
+writing manifest file 'build/depth_viewer/depth_viewer.egg-info/SOURCES.txt'
+reading manifest file 'build/depth_viewer/depth_viewer.egg-info/SOURCES.txt'
+writing manifest file 'build/depth_viewer/depth_viewer.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/build
+creating /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/build/lib
+creating /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/build/lib/depth_viewer
+copying depth_viewer/__init__.py -> /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/build/lib/depth_viewer
+copying depth_viewer/depth_viewer.py -> /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/build/lib/depth_viewer
+running install
+running install_lib
+creating /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages/depth_viewer
+copying /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/build/lib/depth_viewer/__init__.py -> /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages/depth_viewer
+copying /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/build/lib/depth_viewer/depth_viewer.py -> /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages/depth_viewer
+byte-compiling /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages/depth_viewer/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages/depth_viewer/depth_viewer.py to depth_viewer.cpython-38.pyc
+running install_data
+creating /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/share/ament_index
+creating /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/share/ament_index/resource_index
+creating /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/share/ament_index/resource_index/packages
+copying resource/depth_viewer -> /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/share/ament_index/resource_index/packages
+copying package.xml -> /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/share/depth_viewer
+creating /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/share/depth_viewer/launch
+copying launch/uncompress_images.launch.py -> /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/share/depth_viewer/launch
+running install_egg_info
+Copying build/depth_viewer/depth_viewer.egg-info to /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages/depth_viewer-0.0.0-py3.8.egg-info
+running install_scripts
+Installing depth_viewer script to /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/depth_viewer
+writing list of installed files to '/home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/install.log'

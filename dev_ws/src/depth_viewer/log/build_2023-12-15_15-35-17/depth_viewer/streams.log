@@ -1,0 +1,24 @@
+[0.780s] Invoking command in '/home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer': PYTHONPATH=/home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/prefix_override:/home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/depth_viewer build --build-base /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/build install --record /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/install.log --single-version-externally-managed
+[0.919s] running egg_info
+[0.919s] writing build/depth_viewer/depth_viewer.egg-info/PKG-INFO
+[0.920s] writing dependency_links to build/depth_viewer/depth_viewer.egg-info/dependency_links.txt
+[0.921s] writing entry points to build/depth_viewer/depth_viewer.egg-info/entry_points.txt
+[0.921s] writing requirements to build/depth_viewer/depth_viewer.egg-info/requires.txt
+[0.921s] writing top-level names to build/depth_viewer/depth_viewer.egg-info/top_level.txt
+[0.939s] reading manifest file 'build/depth_viewer/depth_viewer.egg-info/SOURCES.txt'
+[0.940s] writing manifest file 'build/depth_viewer/depth_viewer.egg-info/SOURCES.txt'
+[0.940s] running build
+[0.940s] running build_py
+[0.940s] copying depth_viewer/depth_viewer.py -> /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/build/lib/depth_viewer
+[0.940s] running install
+[0.941s] running install_lib
+[0.941s] copying /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/build/lib/depth_viewer/depth_viewer.py -> /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages/depth_viewer
+[0.941s] byte-compiling /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages/depth_viewer/depth_viewer.py to depth_viewer.cpython-38.pyc
+[0.943s] running install_data
+[0.943s] running install_egg_info
+[0.944s] removing '/home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages/depth_viewer-0.0.0-py3.8.egg-info' (and everything under it)
+[0.944s] Copying build/depth_viewer/depth_viewer.egg-info to /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages/depth_viewer-0.0.0-py3.8.egg-info
+[0.945s] running install_scripts
+[0.955s] Installing depth_viewer script to /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/depth_viewer
+[0.955s] writing list of installed files to '/home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/install.log'
+[0.967s] Invoked command in '/home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer' returned '0': PYTHONPATH=/home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/prefix_override:/home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/install/depth_viewer/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/depth_viewer build --build-base /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/build install --record /home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/src/depth_viewer/build/depth_viewer/install.log --single-version-externally-managed

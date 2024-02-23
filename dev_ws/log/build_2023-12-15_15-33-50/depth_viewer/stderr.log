@@ -1,0 +1,5 @@
+  File "/home/hammad/Desktop/mobile-robotics-crash-course/2-perception/dev_ws/install/depth_viewer/lib/python3.8/site-packages/depth_viewer/import torch.py", line 144
+    cone_depth = ConeDepth[]
+                           ^
+SyntaxError: invalid syntax
+
