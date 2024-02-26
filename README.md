@@ -41,7 +41,7 @@ Navigate to the cloned repository directory and build using Colcon:
 `colcon build`
 
 
-If all steps have been successful up to this point, proceed with the following:
+If all steps have been successful up to this point then proceed with the following:
 
 
 `Start the ZED camera.`
