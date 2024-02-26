@@ -23,6 +23,8 @@ The code has been tested on the following setup:
     - vision_opencv
     - image_common
 
+----------------------------------------------------------------
+
 ## Getting Started
 
 Ensure that you have all the requirements satisfied before proceeding.
